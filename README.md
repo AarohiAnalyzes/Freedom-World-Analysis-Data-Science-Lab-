@@ -76,9 +76,17 @@ The objective is to combine statistical modeling and machine learning techniques
 
 ## Repository Structure
 
-- `Freedom_World.ipynb` → # Full reproducible analysis (Python)
-- `Frredom_World_Report.pdf` → # Final academic report & synthesis
-- `README.md` →  # Project documentation & overview
+Freedom-World-Analysis/
+│
+├── Freedom_World.ipynb
+
+├── Freedom_World_Report.pdf
+
+└── README.md
+
+- `Freedom_World.ipynb` → Full reproducible analysis (Python)
+- `Frredom_World_Report.pdf` → Final academic report & synthesis
+- `README.md` → Project documentation & overview
   
 ---
 
