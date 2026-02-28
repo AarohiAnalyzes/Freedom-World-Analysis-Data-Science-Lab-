@@ -78,9 +78,9 @@ The objective is to combine statistical modeling and machine learning techniques
 
 Freedom-World-Analysis/
 │
-├── Freedom_World.ipynb # Full reproducible analysis
-├── Freedom_World_Report.pdf # Final academic report
-└── README.md
+├── Freedom_World.ipynb        # Full reproducible analysis (Python)
+├── Frredom_World_Report.pdf   # Final academic report & synthesis
+└── README.md                  # Project documentation & PM overview
 
 ---
 
